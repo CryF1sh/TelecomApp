@@ -74,6 +74,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="DataAccess\DataContext.cs" />
+    <Compile Include="DataAccess\DataInitializer.cs" />
     <Compile Include="DataAccess\Models\Abonent.cs" />
     <Compile Include="DataAccess\Models\Address.cs" />
     <Compile Include="DataAccess\Models\PhoneNumber.cs" />

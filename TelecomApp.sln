@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelecomApp.Desktop", "Telec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelecomApp.Server", "TelecomApp.Server\TelecomApp.Server.csproj", "{4A1B29D7-2D1C-4FEB-8304-682AD8DF52F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelecomApp.Shared", "TelecomApp.Shared\TelecomApp.Shared.csproj", "{0948953E-7317-462E-91A9-FEF8C542081B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelecomApp.Shared", "TelecomApp.Shared\TelecomApp.Shared.csproj", "{7C23CB3A-B25A-418A-AF4B-A78158F05E0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{4A1B29D7-2D1C-4FEB-8304-682AD8DF52F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A1B29D7-2D1C-4FEB-8304-682AD8DF52F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A1B29D7-2D1C-4FEB-8304-682AD8DF52F4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0948953E-7317-462E-91A9-FEF8C542081B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0948953E-7317-462E-91A9-FEF8C542081B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0948953E-7317-462E-91A9-FEF8C542081B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0948953E-7317-462E-91A9-FEF8C542081B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C23CB3A-B25A-418A-AF4B-A78158F05E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C23CB3A-B25A-418A-AF4B-A78158F05E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C23CB3A-B25A-418A-AF4B-A78158F05E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C23CB3A-B25A-418A-AF4B-A78158F05E0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

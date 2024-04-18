@@ -1,20 +1,20 @@
 ﻿{
-  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "$schema": "http://json.schemastore.org/launchsettings.json",
   "iisSettings": {
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:31127",
+      "applicationUrl": "http://localhost:62058",
       "sslPort": 0
     }
   },
   "profiles": {
-    "TelecomApp.Server": {
+    "http": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-      "applicationUrl": "http://localhost:5277",
+      "applicationUrl": "http://localhost:5118",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

@@ -36,6 +36,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
@@ -63,6 +64,11 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="DataAccess\Models\Abonent.cs" />
+    <Compile Include="DataAccess\Models\Address.cs" />
+    <Compile Include="DataAccess\Models\PhoneNumber.cs" />
+    <Compile Include="DataAccess\Models\PhoneNumberType.cs" />
+    <Compile Include="DataAccess\Models\Street.cs" />
     <Compile Include="Views\MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>

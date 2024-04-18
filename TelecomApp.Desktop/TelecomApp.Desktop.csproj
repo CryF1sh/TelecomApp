@@ -79,6 +79,10 @@
     <Compile Include="DataAccess\Models\PhoneNumber.cs" />
     <Compile Include="DataAccess\Models\PhoneNumberType.cs" />
     <Compile Include="DataAccess\Models\Street.cs" />
+    <Compile Include="DataAccess\Services\AbonentService.cs" />
+    <Compile Include="DataAccess\Services\AddressService.cs" />
+    <Compile Include="DataAccess\Services\PhoneNumberService.cs" />
+    <Compile Include="DataAccess\Services\StreetService.cs" />
     <Compile Include="Views\MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>

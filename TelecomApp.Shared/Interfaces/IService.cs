@@ -1,6 +1,4 @@
-﻿using static System.Net.Mime.MediaTypeNames;
-
-namespace TelecomApp.Shared.Interfaces
+﻿namespace TelecomApp.Shared.Interfaces
 {
     public interface IService<TEntity, TEdit, TIDType>
     {
